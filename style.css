@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none !important;
+  list-style-type: none;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-size: 100%;
+  background-color: #1c1c1c;
+  color: azure;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.main-img {
+  width: 100vh;
+  height: 48vh;
+}
